@@ -10,7 +10,7 @@ print("Terima kasih telah menggunakan program Python!")
 """
 Output:
 Selamat datang dalam program Python!
- 
+
 Silakan masukkan data diri Anda:
 Masukkan nama Anda: Evans
 Masukkan tahun lahir Anda: 2005
